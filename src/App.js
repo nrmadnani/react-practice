@@ -1,9 +1,10 @@
+import Accordion from "./components/Accordion";
 
 
 function App() {
   return (
     <div className="App">
-      <h1>Hi</h1>
+      <Accordion />
     </div>
   );
 }
